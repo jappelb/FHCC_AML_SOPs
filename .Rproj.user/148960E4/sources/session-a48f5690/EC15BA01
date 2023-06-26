@@ -1,26 +1,26 @@
 {
-    "id": "D2AD9335",
-    "path": "~/AMLSOPs/publish_gitbook.sh",
-    "project_path": "publish_gitbook.sh",
-    "type": "sh",
+    "id": "EC15BA01",
+    "path": "~/AML/week4.md",
+    "project_path": "week4.md",
+    "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1687813914578.0,
+    "created": 1687813695157.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "26,17",
-        "scrollLine": "1"
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1687816195,
+    "lastKnownWriteTime": 1687819603,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1687816195,
+    "last_content_update": 1687819603,
     "read_only": false,
     "read_only_alternatives": []
 }
