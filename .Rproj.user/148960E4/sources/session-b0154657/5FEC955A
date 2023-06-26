@@ -3,7 +3,7 @@
     "path": "~/AMLSOPs/SUMMARY.md",
     "project_path": "SUMMARY.md",
     "type": "markdown",
-    "hash": "391042411",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1687814254300.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1687814270,
+    "lastKnownWriteTime": 1687815542,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1687814270936,
+    "last_content_update": 1687815542,
     "read_only": false,
     "read_only_alternatives": []
 }
