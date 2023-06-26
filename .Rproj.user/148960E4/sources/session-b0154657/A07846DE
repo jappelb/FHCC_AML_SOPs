@@ -1,7 +1,7 @@
 {
     "id": "A07846DE",
-    "path": "~/AMLSOPs/week5.Rmd",
-    "project_path": "week5.Rmd",
+    "path": "~/AMLSOPs/week5.md",
+    "project_path": "week5.md",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1687814227,
+    "lastKnownWriteTime": 1687815680,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1687814227,
+    "last_content_update": 1687815680,
     "read_only": false,
     "read_only_alternatives": []
 }
