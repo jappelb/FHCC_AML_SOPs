@@ -3,7 +3,7 @@
     "path": "~/AMLSOPs/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "4275602718",
     "contents": "",
     "dirty": false,
     "created": 1687813571175.0,
@@ -16,16 +16,16 @@
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "11,0",
+        "cursorPosition": "9,17",
         "scrollLine": "0",
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1687815542,
+    "lastKnownWriteTime": 1687815596,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1687815542,
+    "last_content_update": 1687815596448,
     "read_only": false,
     "read_only_alternatives": []
 }
