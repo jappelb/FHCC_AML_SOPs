@@ -3,7 +3,7 @@
     "path": "~/AMLSOPs/week5.Rmd",
     "project_path": "week5.Rmd",
     "type": "r_markdown",
-    "hash": "363527",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1687813691175.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1687813877,
+    "lastKnownWriteTime": 1687814035,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1687813877694,
+    "last_content_update": 1687814035,
     "read_only": false,
     "read_only_alternatives": []
 }
