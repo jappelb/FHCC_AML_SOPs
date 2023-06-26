@@ -1,0 +1,31 @@
+{
+    "id": "B382AE12",
+    "path": "~/AMLSOPs/README.md",
+    "project_path": "README.md",
+    "type": "markdown",
+    "hash": "2300506185",
+    "contents": "",
+    "dirty": false,
+    "created": 1687813571175.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "3,40",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1687814284,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1687814284821,
+    "read_only": false,
+    "read_only_alternatives": []
+}
