@@ -1,6 +1,8 @@
 # FHCC AML Standard Practice
 
-AML treatment evolves constantly. This serves to document our latest consensus practice. Individual treatments will be a product of discussions between providers and patients. This site is not meant to substitute for clinical judgement, but rather outlines the considerations providers will make, and pulls data that maybe useful in deciding treatment of AML patients. By making these considerations explicit, treatment hopefully will be more uniform and consistent across providers.
+AML treatment evolves constantly. This serves to document our latest *local* consensus practice. Individual treatments will be a product of discussions between providers and patients. 
+
+This site is not meant to substitute for clinical judgement, but rather outlines the considerations providers will make, and pulls data that maybe useful in deciding treatment of AML patients. By making these considerations explicit, treatment hopefully will be more uniform and consistent across providers.
 
 ## Topics of Consideration
 
@@ -10,9 +12,13 @@ Several general topics should be considered prior to recommending initial therap
 -   Does this patient need urgent treatment? (See indications for urgent treatment.)
 -   Is all of the information required for diagnosis, risk stratification, and response assessments available?
 
-Once these initial answers are available, a more nuanced discussion of risk stratification, likelihood of tolerating various chemotherapy regimens, and overall treatment course can be conducted. \## Initial Workup
+Once these initial answers are available, a more nuanced discussion of risk stratification, likelihood of tolerating various chemotherapy regimens, and overall treatment course can be conducted. 
+
+## Initial Workup
 
 FHCC adopts the European Leukemia Net (ELN) approach to risk stratification with closely mirrors the world health organization international consensus classification of myeloid malignancies. ELN was recently updated [here](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016867/485817/Diagnosis-and-Management-of-AML-in-Adults-2022-ELN).
+
+### Biobanking and Diagnostic Sampling of Patients Suspected of Leukemia
 
 We strongly recommend patients have samples obtained capable of rendering an exact diagnosis with risk stratification.
 
