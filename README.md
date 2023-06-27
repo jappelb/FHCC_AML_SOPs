@@ -1,6 +1,6 @@
 # FHCC AML Standard Practice
 
-AML treatment is evolves constantly. This wiki serves to document our latest consensus practice. Individual treatments will be a product of discussions between providers and patients. This site is not meant to substitute for clinical judgement. Rather is outlines the considerations providers will make, and pulls data that maybe useful in deciding treatment of AML patients. By making these considerations explicit, treatment hopefully will be more uniform and consistent across providers.
+AML treatment evolves constantly. This serves to document our latest consensus practice. Individual treatments will be a product of discussions between providers and patients. This site is not meant to substitute for clinical judgement. Rather is outlines the considerations providers will make, and pulls data that maybe useful in deciding treatment of AML patients. By making these considerations explicit, treatment hopefully will be more uniform and consistent across providers.
 
 ## Topics of Consideration
 
@@ -24,11 +24,19 @@ Diagnosis is based on blast percentage - patients with 10-20% blasts are classif
 
 ### General Patient Characterization
 
-Patient history should include family history of malignancy, prior medical diagnosis (especially heart or lung disease, renal disease, and hepatobiliary disease).
-
-The patients physical activity level should be carefully scrutinized.
-
-A useful question is "are you able today to walk up a full flight of stairs unaided?" An affirmative answer makes significant lung disease unlikely.
+* family history of malignancy
+* prior medical diagnosis *especially*: 
+  - heart disease 
+  - lung disease
+  - renal disease
+  - hepatobiliary disease
+* ECOG performance status (**should be carefully scrutinized!**)
+  - 0 = No limitations, fully activty, capable of working *Note: patients with AML are rarely ECOG 0*.
+  - 1 = Slight limitations 
+  - 2 = Incapable of more than light activity. Up and about \>50% of the day
+  - 3 = Capable of all self care, in a bed or chair \>50% of the day
+  - 4 = Assitance needed for self care
+  - 5 = Dead
 
 The number of first degree relatives should be documented - siblings, children, parents, and their vital status and general health should be noted, as a preliminary to consideration of future transplant. *The presence or absence of a caregiver is especially important to note.*
 
@@ -45,6 +53,7 @@ Alternatively an affirmative answer to any of the following questions suggests l
 1.  An age older than 75 years
 2.  Congestive heart failure or documented cardiomyopathy with an EF ≤50%
 3.  Documented pulmonary disease with DLCO ≤65% or FEV1 ≤65%, or dyspnea at rest or requiring oxygen, or any pleural neoplasm or uncontrolled lung neoplasm. *Note that in the absence of prior pulmonary function tests, patients without a documented history of lung disease will not meet this criterion.*
+  - A useful question is "are you able today to walk up a full flight of stairs unaided?" An affirmative answer makes significant lung disease unlikely.
 4.  On dialysis *and* age older than 60 years, or uncontrolled renal carcinoma
 5.  Liver cirrhosis Child B or C, or documented liver disease with marked elevation of transaminases (\>3 times normal values) and an age older than 60 years, or any biliary tree carcinoma or uncontrolled liver carcinoma or acute viral hepatitis
 6.  Active infection resistant to anti-infective therapy
