@@ -5,7 +5,7 @@ gitbook install
 git checkout -B gh-pages
 
 # pull the latest updates
-git pull origin gh-pages --
+git pull origin gh-pages
 
 # build the book
 gitbook build
