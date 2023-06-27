@@ -4,7 +4,7 @@ AML treatment evolves constantly. This serves to document our latest FHCC *local
 
 This site is not meant to substitute for clinical judgement, but rather outlines the considerations providers will make, and pulls data that maybe useful in deciding treatment of AML patients. By making these considerations explicit, treatment hopefully will be more uniform and consistent across providers.
 
-Initial evaluation is detailed [here](First Steps.Rmd). 
+Initial evaluation is detailed [here](First Steps.md). 
 
 
 ## Suitability for transplant
