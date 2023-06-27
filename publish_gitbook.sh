@@ -1,11 +1,14 @@
 # install the plugins and build the static site
-gitbook install && gitbook build
+gitbook install
 
 # checkout to the gh-pages branch
 git checkout -B gh-pages
 
 # pull the latest updates
-git pull origin gh-pages --rebase
+git pull origin gh-pages --
+
+# build the book
+gitbook build
 
 # copy the static site files into the current directory.
 cp -R _book/* .
