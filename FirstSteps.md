@@ -4,24 +4,24 @@ High grade myeloid neoplasms are a family of rapidly progressive cancers of the 
 
 Prompt diagnosis is relies of careful characterization of the leukemia blast cells, which can become challenging following initial cytoreduction. Therefore initial management should not only aim to stabilize the patient, but also provide definitive diagnosis.
 
-Several topics should be considered prior to recommending initial therapy. A general approach to evaluation should be methodical, and progresses as follows 
+Several topics should be considered prior to recommending initial therapy. Then, once the patient is stabilized and required sampels obtained, a more careful consideration of tranplant and non-transplant therapies can be completed. 
 
-1. Obtain samples that will allow definitive diagnosis
-2. Evaluate the need for urgent interventions
-3. Evaluate patient factors, including fitness for intensive induction therapy
-4. Evaluate patient factors that impact suitability for allogeneic stem cell transplant
+A general approach to evaluation should be methodical, and progresses as follows 
 
-Once these initial answers are available, a more nuanced discussion of risk stratification, likelihood of tolerating various chemotherapy regimens, and overall treatment course can be conducted, allowing one to
-
-5. Formulate an initial treatment plan
-
-The likelihood of cure is dependent on a disease characteristics including genetic analyses that maybe available only days after initial presentation. Once definitive disease characterization is available, a careful consideration of the risks and benefits of allogeneic transplant is conducted as follows (usually after therapy is initiated):
-
-6. Prognostication of the outcomes of standard chemotherapy treatments
-7. Evaluation of the risk of allogeneic transplant including non-relapse mortality.
-8. Consideration of donor factors and risk of GVHD
-9. Consideration of the likelihood of successful (i.e. curative) allogenetic transplant
-10. Balancing these factors and quality of life with respect to patient preferences.
+1. **Initial Evaluation*
+  1. Obtain samples that will allow definitive diagnosis
+  2. Evaluate the need for urgent interventions, including concurrent infection
+2. Consider whether intensive induction therapy is appropriate 
+  3. Evaluate patient fitness for intensive induction therapy
+  3. Consider outcomes with standard therapies including supportive care and/or hospice care, hypomethylating therapies, and standard intensive induction. 
+4. **Formulation Initial Treatment Plan**
+4. Evaluate whether allogeneic stem cell transplant is appropriate
+    - The likelihood of cure is dependent on a disease characteristics including genetic analyses that maybe available only days after initial presentation. Once definitive disease characterization is available, a careful consideration of the risks and benefits of allogeneic transplant is conducted as follows (usually after therapy is initiated).
+  6. Prognostication of the outcomes of standard chemotherapy treatments
+  7. Evaluation of the risk of allogeneic transplant including non-relapse mortality.
+  8. Consideration of donor factors and risk of GVHD
+  9. Consideration of the likelihood of successful (i.e. curative) allogenetic transplant
+  10. Balancing these factors and quality of life with respect to patient preferences.
 
 
 ## Initial Workup
