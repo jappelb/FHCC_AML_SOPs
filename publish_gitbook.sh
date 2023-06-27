@@ -2,7 +2,7 @@
 gitbook install && gitbook build
 
 # checkout to the gh-pages branch
-git checkout -b gh-pages
+git checkout -B gh-pages
 
 # pull the latest updates
 git pull origin gh-pages --rebase
