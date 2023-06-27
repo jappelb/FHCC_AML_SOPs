@@ -1,6 +1,6 @@
 # FHCC AML Standard Practice
 
-AML treatment evolves constantly. This serves to document our latest consensus practice. Individual treatments will be a product of discussions between providers and patients. This site is not meant to substitute for clinical judgement. Rather is outlines the considerations providers will make, and pulls data that maybe useful in deciding treatment of AML patients. By making these considerations explicit, treatment hopefully will be more uniform and consistent across providers.
+AML treatment evolves constantly. This serves to document our latest consensus practice. Individual treatments will be a product of discussions between providers and patients. This site is not meant to substitute for clinical judgement, but rather outlines the considerations providers will make, and pulls data that maybe useful in deciding treatment of AML patients. By making these considerations explicit, treatment hopefully will be more uniform and consistent across providers.
 
 ## Topics of Consideration
 
