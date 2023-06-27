@@ -24,13 +24,9 @@ A general approach to evaluation should be methodical, and progresses as follows
   10. Balancing these factors and quality of life with respect to patient preferences.
 
 
-## Initial Workup
-
-FHCC adopts the European Leukemia Net (ELN) approach to risk stratification with closely mirrors the world health organization international consensus classification of myeloid malignancies. ELN was recently updated [here](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016867/485817/Diagnosis-and-Management-of-AML-in-Adults-2022-ELN)
-
 ### General workup
 
-A physical exam is helpful to document site of disease, provide information regarding organ and marrow function, and to evaluate for evidence of infection. Additional information, such as the presence of liver or spleen enlargement may provide clues to disease history, e.g. prior myeloproliferative neoplasm resulting in marrow fibrosis and and indicating likely poor marrow recovery following intensive chemotherapy.
+**A physical exam** is helpful to document site of disease, provide information regarding organ and marrow function, and to evaluate for evidence of infection. Additional information, such as the presence of liver or spleen enlargement may provide clues to disease history, e.g. prior myeloproliferative neoplasm resulting in marrow fibrosis and and indicating likely poor marrow recovery following intensive chemotherapy.
 
 Special attention therefore is paid to examination of the chest (e.g. for ralles), volume status, skin (e.g. for rash), abdominal organs, oropharynx, and cardiac auscultation. 
 
@@ -43,8 +39,6 @@ Special attention therefore is paid to examination of the chest (e.g. for ralles
  - EBV & CMV (*these viral infections can reactivate at presentation*)
  - HLA typing (*to aid in donor identification*)
 
-## Biobanking and Diagnostic Sampling of Patients Suspected of Leukemia
-
 ### Blast Cutoffs for diagnosis by peripheral blood
 We strongly recommend patients have samples obtained capable of rendering an exact diagnosis with risk stratification. As of 2022, this required at least some genetic sequencing approaches in addition to karyotyping. If the circulating blast concentration exceeds 2000/uL, it is likely that sufficient information for genetic characterization as well as metaphase karyotypic could be obtained from the peripheral blood. If this is not the case a bone marrow aspirate should be obtained.
 
@@ -53,7 +47,7 @@ Diagnosis is based on blast percentage - patients with 10-20% blasts are classif
 ### Biobanks at FHCC 
 Two biobanks are currently operational at FHCC based on protocol numbers FH1690 (for AML) and FH1713 (for MDS). Contact the Tim Monahan for consent forms and sample aquisition. 
 
-## General Patient Characterization & suitability for intensive chemotherapy
+## General Patient Characterization
 
 * family history of malignancy
 * prior medical diagnosis *especially*: 

@@ -6,6 +6,9 @@ This site is not meant to substitute for clinical judgement, but rather outlines
 
 Initial evaluation is detailed [here](FirstSteps.md). 
 
+## Initial Workup
+
+FHCC adopts the European Leukemia Net (ELN) approach to risk stratification with closely mirrors the world health organization international consensus classification of myeloid malignancies. ELN was recently updated [here](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016867/485817/Diagnosis-and-Management-of-AML-in-Adults-2022-ELN)
 
 ## Suitability for transplant
 
