@@ -1,12 +1,17 @@
+---
+title: Infection Prophylaxis
+bibliography: references.bib
+---
+
 # Infection Prophylaxis For Patients With Neutropenia
 
 AML patients treated with chemotherapy are expected to experience periods of neutropenia. The risk of infection associated with neutropenia is influenced by various factors such as prior healthcare exposure, the length of neutropenia, the degree of neutropenia and characteristics of disease.
 
 Most AML patients receiving intensive chemotherapy should receive prophylaxis for HSV/VZV, bacterial pathogens and fungal pathogens. Our standard prophylaxis is:
-      
-* Acyclovir 800mg PO BID
-* Levofloxacin 500mg PO Daily
-* Posaconazole 300mg PO Daily or Voriconazole 300mg PO BID
+
+-   Acyclovir 800mg PO BID
+-   Levofloxacin 500mg PO Daily
+-   Posaconazole 300mg PO Daily or Voriconazole 300mg PO BID
 
 Note that posaconazole can represent a significant cost burden to many patients. There is some data for its superiority, however voriconazole is a reasonable substitute.
 
